@@ -68,3 +68,8 @@ Nothing here is marked LIVE. A service becomes LIVE only with evidence.
 <sub>SILENCE · Soft Noire Design · System Silence · φ</sub>
 
 </div>
+
+## Licencja / License
+
+All rights reserved, © Ewa Tchórzewska. Licencja zamknięta: [`LICENSE`](LICENSE).
+Autorstwo i nazewnictwo: [`NOTICE`](NOTICE).
