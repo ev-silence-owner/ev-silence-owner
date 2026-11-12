@@ -46,8 +46,8 @@ Public materials are **non‑clinical**. They do not diagnose, treat, or predict
 
 | Repository | What it holds | License |
 |:--|:--|:--|
-| [**Soft‑Noire‑Design**](https://github.com/ev-silence-owner/Soft-Noire-Design) | Design tokens, wallpaper generator (Rust), perceptual contract | MIT + authorial marks |
-| [**silence‑research‑open**](https://github.com/ev-silence-owner/silence-research-open) | Definitions, glossary, FAQ, public claim manifest, agent feed | Open‑core |
+| [**Soft‑Noire‑Design**](https://github.com/ev-silence-owner/Soft-Noire-Design) | Design tokens, wallpaper generator (Rust), perceptual contract | All rights reserved — Ewa Tchórzewska (Owner) |
+| [**silence‑research‑open**](https://github.com/ev-silence-owner/silence-research-open) | Definitions, glossary, FAQ, public claim manifest, agent feed | All rights reserved — Ewa Tchórzewska (Owner) |
 
 <br>
 
@@ -68,3 +68,11 @@ Nothing here is marked LIVE. A service becomes LIVE only with evidence.
 <sub>SILENCE · Soft Noire Design · System Silence · φ</sub>
 
 </div>
+
+## Licencja / License
+
+**Copyright (c) 2026 Ewa Tchórzewska (osoba fizyczna). Wszelkie prawa zastrzeżone.**
+
+Podmiot praw / Rights holder: **Ewa Tchórzewska (Owner)**. Licencja zamknięta / Closed licence: [`LICENSE`](LICENSE). Autorstwo i nazewnictwo / Authorship and naming: [`NOTICE`](NOTICE).
+
+Kopiowanie, publikacja, modyfikacja oraz eksploracja tekstów i danych (w tym trenowanie AI) wymagają uprzedniej pisemnej zgody Ownera. Copying, publication, modification and text and data mining (including AI training) require the Owner's prior written consent.
